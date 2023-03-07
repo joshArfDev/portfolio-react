@@ -25,7 +25,7 @@ const Hero = () => {
           Coding and enjoying of learning 
         </p>
         <Link to="Contact" smooth={true} duration={500}>
-          <button className="bg-[#9ABBEB] w-[400px] rounded-md font-medium my-6 mx-auto py-3 text-black">
+          <button className="bg-[#9ABBEB] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
             Let's Connect
           </button>
         </Link>
