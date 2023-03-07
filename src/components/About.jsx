@@ -15,7 +15,7 @@ const About = () => {
         <img
           className="w-[300px] mx-auto my-4 rounded-3xl "
           src={Photo}
-          alt="/"
+          alt="joshua acevedo picturee"
         />
         <div className="flex flex-col justify-center">
           <h1 className="md:text-4x1 sm:text-3xl text-2xl font-bold py-2 mt-24">
