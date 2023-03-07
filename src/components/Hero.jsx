@@ -21,10 +21,14 @@ const Hero = () => {
             loop
           />
         </div>
-        <p className="md:text-2xl text-xl font-bold text-[#c0c7a9e0]">Coding and enjoying keep learning</p>
-        <button className="bg-[#9ABBEB] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black"><Link to="Contact" smooth={true} duration={500}>
+        <p className="md:text-2xl text-xl font-bold text-[#c0c7a9e0]">
+          Coding and enjoying keep learning
+        </p>
+        <button className="bg-[#9ABBEB] w-[400px] rounded-md font-medium my-6 mx-auto py-3 text-black">
+          <Link to="Contact" smooth={true} duration={500}>
             Let's Connect
-          </Link></button>
+          </Link>
+        </button>
       </div>
     </div>
   );
