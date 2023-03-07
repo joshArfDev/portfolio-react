@@ -29,7 +29,7 @@ const Footer = () => {
               </a>
               <a
                 target="_blank"
-                href="https://github.com/fireclint/portfolio-app-react/blob/main/src/components/Navbar.jsx"
+                href="https://linkedin.com/in/joshuaarfa"
                 rel="noreferrer"
               >
                 <FaLinkedin size={40} />

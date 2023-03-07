@@ -19,15 +19,15 @@ const About = () => {
         />
         <div className="flex flex-col justify-center">
           <h1 className="md:text-4x1 sm:text-3xl text-2xl font-bold py-2 mt-24">
-            So far, I consider myself as a junior developer
+            Here is someone who likes coding and making things.
           </h1>
           <p>
-            I'm from Guatemala and yes I'm writing in english because I believe
-            100% english is so useful in this area. I've done a few dev things,
-            of course you can watch it on the "portfolio" area.
+            I'm studying my major at this moment (this is my "last" year) which is system engineering at the university Mariano Galvez. 
           </p>
           <br />
           <p>
+            I've made a few things with the basics (HTML, CSS, and javascript) and I also use PHP, all of this stuff (sure) you can watch in the portfolio area. Of course, I'm studying and doing things with Nodejs and React as well to develop my skills.
+            <br />
             Here below are three sites where you can see more about me and a
             little of bit what i'm doing.
           </p>
@@ -50,7 +50,7 @@ const About = () => {
 
               <a
                 target="_blank"
-                href="https://github.com/fireclint/portfolio-app-react/blob/main/src/components/Navbar.jsx"
+                href="https://linkedin.com/in/joshuaarfa"
                 rel="noreferrer"
               >
                 <FaLinkedin size={40} />
