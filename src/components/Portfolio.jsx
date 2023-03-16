@@ -45,14 +45,14 @@ const Portfolio = () => {
         <div>
           <h2 className="font-bold text-2xl text-center py-8"> Php</h2>
           <a href="/" className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
-            <p className="py-2 border-b mx-8 "> ➡️ CRUD: This CRUD uses a DB (mysql) and Bootstrap (for the styles) </p>
+            <p className="py-2 border-b mx-8 "> ➡️ CRUD: This CRUD uses a DB (mysql) and Bootstrap (for the styles). 🚩 I'm working on this one yet </p>
           </a>
         </div>
 
         <div>
           <h2 className="font-bold text-2xl text-center py-8 "> NodeJs</h2>
           <a href="/" className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
-            <p className="py-2 border-b mx-8 "> ➡️ Favorite links: this one uses Js, nodejs, and mysql. Here you can log in to the web app and save your favorite links (every user has their own session) </p>
+            <p className="py-2 border-b mx-8 "> ➡️ Favorite links: this one uses Js, nodejs, and mysql. Here you can log in to the web app and save your favorite links (every user has their own session). 🚩  I'm working on this one yet </p>
           </a>
         </div>
         
